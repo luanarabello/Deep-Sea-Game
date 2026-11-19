@@ -38,6 +38,12 @@ The ocean is divided into three distinct 10×10 layers, where every tactical dec
 
 ---
 
+## Sneak Peak
+<img src="./src/main/resources/surface.png" width="500">
+<img src="./src/main/resources/dockyard.png" width="500">  
+<img src="./src/main/resources/deep-sea.png" width="500">  
+
+
 ## Authors
 
 - **Guilherme Eça (@gitgui0)**
